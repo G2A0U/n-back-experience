@@ -747,7 +747,7 @@ async function experimentInit() {
     width: 0.3, height: 0.1,
     pos: [0, -0.4],
     fillColor: new util.Color('white'),
-    lineColor: new util.Color('6CC1B8'),
+    lineColor: new util.Color('#6CC1B8'),
     lineWidth: 3,
     opacity: 1
   });
@@ -800,7 +800,7 @@ async function experimentInit() {
     width: 0.3, height: 0.1,
     pos: [0, -0.4],
     fillColor: new util.Color('white'),
-    lineColor: new util.Color('6CC1B8'),
+    lineColor: new util.Color('#6CC1B8'),
     lineWidth: 3,
     opacity: 1
   });
@@ -840,7 +840,7 @@ async function experimentInit() {
     width: 0.3, height: 0.1,
     pos: [0, -0.4],
     fillColor: new util.Color('white'),
-    lineColor: new util.Color('6CC1B8'),
+    lineColor: new util.Color('#6CC1B8'),
     lineWidth: 3,
     opacity: 1
   });
