@@ -1075,7 +1075,7 @@ async function experimentInit() {
   text_welcome1 = new visual.TextStim({
     win: psychoJS.window,
     name: 'text_welcome1',
-    text: 'Vous allez voir des lettres apparaître successivement, une par une, au centre de l\'écran. Votre objectif est de vérifier, à chaque nouvelle lettre, si elle est identique à celle qui a été présentée juste avant.\n\nPar exemple, pour la séquence suivante :\n S – A – B – B – M\nVous devez faire un clic gauche lorsqu\'une lettre est identique à celle qui précède immédiatement : ici, sur le deuxième B.',
+    text: 'Vous allez voir des lettres apparaître successivement, une par une, au centre de l\'écran. Votre objectif est de vérifier, à chaque nouvelle lettre, si elle est identique à celle qui a été présentée juste avant.\n\nPar exemple, pour la séquence suivante :\n S – A – B – B – M\n\nVous devez faire un clic gauche lorsqu\'une lettre est identique à celle qui précède immédiatement : ici, sur le deuxième B.',
     font: 'Open Sans',
     units: undefined, 
     pos: [0, 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
@@ -1128,7 +1128,7 @@ async function experimentInit() {
   text_welcome2 = new visual.TextStim({
     win: psychoJS.window,
     name: 'text_welcome2',
-    text: 'Vous allez voir des lettres apparaître successivement, une par une, au centre de l\'écran. Votre objectif est de vérifier, à chaque nouvelle lettre, si elle est identique à celle présentée deux lettres auparavant.\n\nPar exemple, pour la séquence suivante :\n S – B – M – B – A\nVous devez faire un clic gauche lorsqu\'une lettre est identique à celle vue deux lettres plus tôt (ici, le deuxième B).',
+    text: 'Vous allez voir des lettres apparaître successivement, une par une, au centre de l\'écran. Votre objectif est de vérifier, à chaque nouvelle lettre, si elle est identique à celle présentée deux lettres auparavant.\n\nPar exemple, pour la séquence suivante :\n S – B – M – B – A\n\nVous devez faire un clic gauche lorsqu\'une lettre est identique à celle vue deux lettres plus tôt (ici, le deuxième B).',
     font: 'Open Sans',
     units: undefined, 
     pos: [0, 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
@@ -1168,7 +1168,7 @@ async function experimentInit() {
   text_welcome3 = new visual.TextStim({
     win: psychoJS.window,
     name: 'text_welcome3',
-    text: 'Vous allez voir des lettres apparaître successivement, une par une, au centre de l\'écran. Votre objectif est de vérifier, à chaque nouvelle lettre, si elle est identique à celle présentée trois lettres auparavant.\n\nPar exemple, pour la séquence suivante :\n S – B – M – S – T\nVous devez faire un clic gauche lorsqu\'une lettre est identique à celle vue trois lettres plus tôt (ici, le deuxième S).',
+    text: 'Vous allez voir des lettres apparaître successivement, une par une, au centre de l\'écran. Votre objectif est de vérifier, à chaque nouvelle lettre, si elle est identique à celle présentée trois lettres auparavant.\n\nPar exemple, pour la séquence suivante :\n S – B – M – S – T\n\nVous devez faire un clic gauche lorsqu\'une lettre est identique à celle vue trois lettres plus tôt (ici, le deuxième S).',
     font: 'Open Sans',
     units: undefined, 
     pos: [0, 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
