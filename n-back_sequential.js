@@ -746,8 +746,8 @@ async function experimentInit() {
     name: 'button_start1',
     width: 0.3, height: 0.1,
     pos: [0, -0.4],
-    fillColor: new util.Color('white'),
-    lineColor: new util.Color('#6CC1B8'),
+    fillColor: new util.Color('#6CC1B8'),
+    lineColor: new util.Color('white'),
     lineWidth: 3,
     opacity: 1
   });
@@ -799,8 +799,8 @@ async function experimentInit() {
     name: 'button_start2',
     width: 0.3, height: 0.1,
     pos: [0, -0.4],
-    fillColor: new util.Color('white'),
-    lineColor: new util.Color('#6CC1B8'),
+    fillColor: new util.Color('#6CC1B8'),
+    lineColor: new util.Color('white'),
     lineWidth: 3,
     opacity: 1
   });
@@ -839,8 +839,8 @@ async function experimentInit() {
     name: 'button_start3',
     width: 0.3, height: 0.1,
     pos: [0, -0.4],
-    fillColor: new util.Color('white'),
-    lineColor: new util.Color('#6CC1B8'),
+    fillColor: new util.Color('#6CC1B8'),
+    lineColor: new util.Color('white'),
     lineWidth: 3,
     opacity: 1
   });
